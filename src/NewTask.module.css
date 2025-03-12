@@ -1,0 +1,11 @@
+.newTask {
+  border: 1px solid var(--gray-700);
+  border-radius: 8px;
+
+  background-color: var(--gray-500);
+  color: var(--gray-100);
+
+  padding: 0.875rem;
+  width: 100%;
+}
+
